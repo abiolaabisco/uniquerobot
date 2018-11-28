@@ -21,7 +21,7 @@ from email.mime.text import MIMEText
 
 USERNAME = "antivandals.alerts@gmail.com"
 
-PASSWORD = "WelCome@ativandalism"
+PASSWORD = "W***************************"
 
 MAILTO  = "anti.vandals@abujaelectricity.com"
 
