@@ -131,10 +131,10 @@ except KeyboardInterrupt:
 ##        
 ##        server  = smtplib.SMTP('smtp.gmail.com' , 578)
 ##        server.starttls()
-##        server.login("abiolaabisco37@gmail.com", "adamawa14")
+##        server.login("abiolaabisco37@gmail.com", "*******pwd")
 ##
 ##        msg= 'intruder'
-##        server.sendmail("abiolaabisco37@gmail.com", "abiolaabisco37@gmail.com", msg)
+##        server.sendmail("abiolaab**@gmail.com", "abiolaabis*@gmail.com", msg)
 ##        server.quit()
 ##        
               
